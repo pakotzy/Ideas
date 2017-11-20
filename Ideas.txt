@@ -1,5 +1,19 @@
-- 1 - Blocking desctop app. Timing manager. You will set up time you want to spend on some task, for example, minimum 3h of Udacity in Google Chrome browser per day, this app will look for completion of this task, and if you try to open something unnecessesry, from the list of blocked apps, it will close them untill you complete your goal. Maybe it will calculate time needed and will allow you to open blocked apps but only until you still have time for planned work, for example, you will set up wake up time at 8am, bad time at 12pm, and you have 3h planned time. So program will let you do whatever you want untill 9pm, and after it will start blocking everything. Plus it can watch you goals, and if you failed one day you will have to start next with necessary work, or reduced free gap.
+- 1 - Blocking desktop app. Timing manager. You will set up time you want to spend on some task, for example, minimum 3h of Udacity in Google Chrome browser per day, this app will look for completion of this task, and if you try to open something unnecessesry, from the list of blocked apps, it will close them untill you complete your goal. Maybe it will calculate time needed and will allow you to open blocked apps but only until you still have time for planned work, for example, you will set up wake up time at 8am, bad time at 12pm, and you have 3h planned time. So program will let you do whatever you want untill 9pm, and after it will start blocking everything. Plus it can watch your goals, and if you failed one day you will have to start next with necessary work, or reduced free gap.
 
 - 2 - Microphone test site. One/Two pages, records the sound from your microphone, lets you decide whether to save to local browser cache (temp., mb. auto. with download feature), or translate to your speakers. Include text field with some interesting random text to read for text, or possibility to load your own text.
 
 - 3 - Android game. Analog run i crowd. Sidescroller, every day new automatically generated level.
+
+- 4 - Android app. Language learning. Dictionarie with possibility to add new words in any language. Tasks like on LinguaLeo, plus automatic translate sentence builder. Voice recordings provided by Google Translate, sentences builded automatically based on something. 
+Gamify: 
+	Items. Craft with special harder challenges, each type of challage some type of item. Trading.
+	Party content. Attack skills; defence; heal self, other party member; buff/debuff; pronounciate words of other party member so he can translate or type it listening to your voice. Mobs drop something useful.
+	Clans. Clan missions. To translate set amount of words in given time.
+
+- 5 - Android card game vs bots, possibly other players.
+
+- 6 - Rapid tiles. Music, clicking. Multithreading. Android.
+
+- 7 - Thread Wars. Keyboard typing trainer. War with thread, user input interupts the thread for some time. Browser. Texts are from movies, series and books. Bosses, if he types paragraph faster then you, you loose hp.
+
+- 8 - Android app. Grabs info about new releases of your favorite tv series from imdb. Search for download link on ett.tv, possible integration with some torrent client on pc.
