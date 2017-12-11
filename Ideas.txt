@@ -17,3 +17,7 @@ Gamify:
 - 7 - Thread Wars. Keyboard typing trainer. War with thread, user input interupts the thread for some time. Browser. Texts are from movies, series and books. Bosses, if he types paragraph faster then you, you loose hp.
 
 - 8 - Android app. Grabs info about new releases of your favorite tv series from imdb. Search for download link on ett.tv, possible integration with some torrent client on pc.
+
+- 9 - Java calculator with Functions and Lambdas for operations.
+
+- 10 - Cryptocurrency tracker. Api to use - https://coinmarketcap.com/api/
