@@ -21,3 +21,5 @@ Gamify:
 - 9 - Java calculator with Functions and Lambdas for operations.
 
 - 10 - Cryptocurrency tracker. Api to use - https://coinmarketcap.com/api/
+
+- 11 - Python + AI
